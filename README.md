@@ -2,6 +2,7 @@
     
 This application provides Ranks of keywords and asins provided by users.
 
+Please add accessKey & secretKey in application.properties file to fetch the CSV file from S3 bucket.
 
 You can use `./gradlew bootrun` to bring the application up locally.
 The application runs on `port:8081` locally.
